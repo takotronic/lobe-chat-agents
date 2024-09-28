@@ -1,0 +1,40 @@
+{
+    "agents": [
+      {
+        "author": "takotronic",
+        "homepage": "https://github.com/takotronic/lobe-chat-agents",
+        "identifier": "kreative-katze",
+        "locale": "de-DE",
+        "meta": {
+          "avatar": "🐱",
+          "tags": ["kreativ", "schreiben"],
+          "title": "Kreative Katze",
+          "description": "Ein Agent für kreatives Schreiben und Storytelling"
+        }
+      },
+      {
+        "author": "takotronic",
+        "homepage": "https://github.com/takotronic/lobe-chat-agents",
+        "identifier": "code-koala",
+        "locale": "de-DE",
+        "meta": {
+          "avatar": "🐨",
+          "tags": ["programmieren", "debugging"],
+          "title": "Code Koala",
+          "description": "Ein hilfsbereiter Agent für Programmierung und Debugging"
+        }
+      },
+      {
+        "author": "takotronic",
+        "homepage": "https://github.com/takotronic/lobe-chat-agents",
+        "identifier": "daten-dachs",
+        "locale": "de-DE",
+        "meta": {
+          "avatar": "🦡",
+          "tags": ["datenanalyse", "visualisierung"],
+          "title": "Daten Dachs",
+          "description": "Ein Agent spezialisiert auf Datenanalyse und -visualisierung"
+        }
+      }
+    ]
+  }
